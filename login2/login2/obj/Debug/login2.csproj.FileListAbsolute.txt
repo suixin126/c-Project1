@@ -1,0 +1,11 @@
+D:\Visual Studio 2019\LoginWin\login2\login2\bin\Debug\login2.exe.config
+D:\Visual Studio 2019\LoginWin\login2\login2\bin\Debug\login2.exe
+D:\Visual Studio 2019\LoginWin\login2\login2\bin\Debug\login2.pdb
+D:\Visual Studio 2019\LoginWin\login2\login2\obj\Debug\login2.csproj.AssemblyReference.cache
+D:\Visual Studio 2019\LoginWin\login2\login2\obj\Debug\login2.Form1.resources
+D:\Visual Studio 2019\LoginWin\login2\login2\obj\Debug\login2.Properties.Resources.resources
+D:\Visual Studio 2019\LoginWin\login2\login2\obj\Debug\login2.csproj.GenerateResource.cache
+D:\Visual Studio 2019\LoginWin\login2\login2\obj\Debug\login2.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\LoginWin\login2\login2\obj\Debug\login2.exe
+D:\Visual Studio 2019\LoginWin\login2\login2\obj\Debug\login2.pdb
+D:\Visual Studio 2019\LoginWin\login2\login2\obj\Debug\login2.Form2.resources

@@ -1,0 +1,10 @@
+C:\houduanstudy\c#\FileServer\bin\Debug\FileServer.exe.config
+C:\houduanstudy\c#\FileServer\bin\Debug\FileServer.exe
+C:\houduanstudy\c#\FileServer\bin\Debug\FileServer.pdb
+C:\houduanstudy\c#\FileServer\obj\Debug\FileServer.csproj.AssemblyReference.cache
+C:\houduanstudy\c#\FileServer\obj\Debug\FileServer.Properties.Resources.resources
+C:\houduanstudy\c#\FileServer\obj\Debug\FileServer.csproj.GenerateResource.cache
+C:\houduanstudy\c#\FileServer\obj\Debug\FileServer.csproj.CoreCompileInputs.cache
+C:\houduanstudy\c#\FileServer\obj\Debug\FileServer.exe
+C:\houduanstudy\c#\FileServer\obj\Debug\FileServer.pdb
+C:\houduanstudy\c#\FileServer\obj\Debug\FileServer.Form1.resources
